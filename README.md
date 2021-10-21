@@ -29,8 +29,7 @@ However, if, for some reason, you are unable to unlock your website access with 
 
 ## How to use
 
-Download the Locksmith.cs file and place it in App_Code folder in your website root. If you do not have an App_Code folder create one.
-If you did everything right the App_Code should be next to App_Data and bin folders, on the same level.
+Download the Locksmith.cs file and place it in any folder in your solution. I recommend a "Tools" or "Utilities" folder.
 
 Once done, restart the website. As in IIS/hosting restart. A user should be created once the frontpage fully loads - from there you can head on over to the backoffice and log in with the aforementioned credentials.
 
@@ -50,7 +49,7 @@ I take no responsibility if this tool is used for nefarious purposes - it is sim
 
 ## Final notes
 
--Tested on 9.0.0)
+-Tested on 9.0.0
 
 -This is a pretty hacky approach to unlock your site. Use with caution.
 
