@@ -49,7 +49,7 @@ I take no responsibility if this tool is used for nefarious purposes - it is sim
 
 ## Final notes
 
--Tested on 9.0.0)
+-Tested on 9.0.0
 
 -This is a pretty hacky approach to unlock your site. Use with caution.
 
