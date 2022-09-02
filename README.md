@@ -1,5 +1,5 @@
 # UmbracoLocksmith
-Umbraco Backoffice Emergency Unlocker (v9)
+Umbraco Backoffice Emergency Unlocker (v9 and v10 compatible)
 
 ## What does this do?
 In case you have been locked out of your Umbraco 9 site backoffice/admin panel, and do not have an alternative login/anyone else on your team, your options are quite limited.
